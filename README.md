@@ -39,11 +39,3 @@ I've been learning to program since December 2019, I started with HTML, then wit
 <a href="http://www.github.com/xavigil1"><img src="https://github-readme-streak-stats.herokuapp.com/?user=xavigil1&stroke=ffffff&background=0f172a&ring=84cc16&fire=84cc16&currStreakNum=ffffff&currStreakLabel=84cc16&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/xavigil1" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xavigil1&langs_count=10&title_color=84cc16&text_color=ffffff&icon_color=a855f7&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/xavigil1/gilcolconfecciones" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=xavigil1&repo=gilcolconfecciones&title_color=84cc16&text_color=ffffff&icon_color=a855f7&bg_color=0f172a&hide_border=true&locale=en" /></a><a href="https://github.com/xavigil1/PLANTILLA-WEB-GCP-AGENCY" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=xavigil1&repo=PLANTILLA-WEB-GCP-AGENCY&title_color=84cc16&text_color=ffffff&icon_color=a855f7&bg_color=0f172a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/xavigil1/FrancoGilPortfolio" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=xavigil1&repo=FrancoGilPortfolio&title_color=84cc16&text_color=ffffff&icon_color=a855f7&bg_color=0f172a&hide_border=true&locale=en" /></a><a href="https://github.com/xavigil1/Web-Portfolio-GCP1" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=xavigil1&repo=Web-Portfolio-GCP1&title_color=84cc16&text_color=ffffff&icon_color=a855f7&bg_color=0f172a&hide_border=true&locale=en" /></a></div>
